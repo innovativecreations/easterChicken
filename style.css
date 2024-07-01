@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em;
+}
+
+main {
+    padding: 2em;
+}
+
+.chicken-container {
+    margin: 2em auto;
+    max-width: 200px;
+}
+
+#chicken {
+    width: 100%;
+}
+
+#layEggButton {
+    padding: 1em 2em;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+#eggContainer {
+    margin-top: 2em;
+}
